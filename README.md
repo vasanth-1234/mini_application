@@ -1,5 +1,6 @@
 # mini_application
 zoho mini app
+AMAZON APP
 admin login:
 admin user=vasanth
 admin password=1234
